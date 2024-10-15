@@ -1,10 +1,3 @@
-"""
-File: data_scrape_rmp.py
-Author: Owen Sharpe
-Date: 9/23/24
-Description: Scrapes necessary data from Rate My Professor
-"""
-
 # import necessary libraries
 import pandas as pd
 from bs4 import BeautifulSoup
